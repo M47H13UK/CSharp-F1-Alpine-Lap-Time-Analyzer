@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-F1-Alpine-Lap-Time-Analyzer", "CSharp-F1-Alpine-Lap-Time-Analyzer.csproj", "{98F101D9-0D52-E8A9-B62E-264721BF3567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F101D9-0D52-E8A9-B62E-264721BF3567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F101D9-0D52-E8A9-B62E-264721BF3567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F101D9-0D52-E8A9-B62E-264721BF3567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F101D9-0D52-E8A9-B62E-264721BF3567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F16192A-5AD3-4389-BC2D-43651BBC627E}
+	EndGlobalSection
+EndGlobal

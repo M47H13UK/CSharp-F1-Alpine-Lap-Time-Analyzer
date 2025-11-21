@@ -1,0 +1,15 @@
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\bin\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.exe
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\bin\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.deps.json
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\bin\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.runtimeconfig.json
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\bin\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.dll
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\bin\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.pdb
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.sourcelink.json
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.dll
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\refint\CSharp-F1-Alpine-Lap-Time-Analyzer.dll
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.pdb
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\CSharp-F1-Alpine-Lap-Time-Analyzer.genruntimeconfig.cache
+C:\Users\mathi\OneDrive\[04]Work_Business_Networking_Meetings\[12]Public-Github-Projects\CSharp-F1-Alpine-Lap-Time-Analyzer\obj\Debug\net10.0\ref\CSharp-F1-Alpine-Lap-Time-Analyzer.dll
