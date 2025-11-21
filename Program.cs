@@ -384,14 +384,46 @@ namespace CSharp_F1_Alpine_Lap_Time_Analyzer
         //Codes detailed in the csv.
         static string GetShortStatus(int? status)
         {
-            if (status == 1) return "Green";
-            if (status == 2) return "Yellow";
-            if (status == 4) return "SC";
-            if (status == 5) return "Red";
-            if (status == 6) return "VSC";
-            if (status == 7) return "VSC end";
-            return "";
+            if (!status.HasValue)
+                return string.Empty;
+
+            string raw = status.Value.ToString(CultureInfo.InvariantCulture);
+
+            // Collect short labels for each digit.
+            List<string> labels = new List<string>();
+
+            foreach (char ch in raw)
+            {
+                string label = MapStatusDigit(ch);
+                if (!string.IsNullOrEmpty(label))
+                {
+                    labels.Add(label);
+                }
+            }
+
+            if (labels.Count == 0)
+                return string.Empty;
+
+            // e.g. "VSC,G" for 61, "VSC,VSCe,G" for 671
+            return string.Join(",", labels);
         }
+
+
+        //Map a single status digit to initials.
+        static string MapStatusDigit(char ch)
+        {
+            switch (ch)
+            {
+                case '1': return "G";      // Green
+                case '2': return "Y";      // Yellow
+                case '4': return "SC";     // Safety Car
+                case '5': return "R";      // Red flag
+                case '6': return "VSC";    // Virtual Safety Car
+                case '7': return "VSCe";   // VSC end
+                default:  return string.Empty;
+            }
+        }
+
 
         //Helper to safely parse a double (returns null if empty).
         static double? ParseDoubleOrNull(string val)
