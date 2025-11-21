@@ -1,4 +1,4 @@
-# Alpine Lap Time Analyzer
+# Alpine F1 Team Lap Time Analyzer - São Paulo Grand Prix 2025
 
 ![Alpine Lap Time Analyzer demo](demo.png)
 
