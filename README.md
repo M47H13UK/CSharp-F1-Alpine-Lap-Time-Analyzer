@@ -20,7 +20,7 @@ It reads a telemetry CSV, calculates some basic pace stats, and prints a colour-
   - Average pace on **clean green-flag laps** (no pitstop on that lap)
   - Median pace on clean laps
   - Number of pitstops
-  - Tyre compounds used, in stint order
+  - Tyre compounds used, in order
 - Computes an average **pace delta** between the two drivers on overlapping clean laps.
 - Prints a detailed table for all laps where both drivers have a time, including:
   - Lap number
@@ -62,7 +62,7 @@ If multiple statuses are encoded in the telemetry for a single lap, they appear 
 
    You should see:
    - A small summary table with fastest / average / median lap times and pitstops.
-   - A tyre-usage line for each driver.
+   - A tyre compound usage sequence line for each driver.
    - A pace-delta line showing who was quicker on average.
    - A full lap-by-lap table for the race.
 

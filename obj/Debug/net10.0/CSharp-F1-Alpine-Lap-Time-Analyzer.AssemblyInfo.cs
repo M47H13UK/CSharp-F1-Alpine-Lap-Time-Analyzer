@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp-F1-Alpine-Lap-Time-Analyzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d350cf6cfa19adf2ef34430f98c68228f4e57a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec4b762086ba39a39e85b2a8c76f3d78c6b36ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp-F1-Alpine-Lap-Time-Analyzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp-F1-Alpine-Lap-Time-Analyzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
