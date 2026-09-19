@@ -2,10 +2,10 @@
 
 ![Alpine Lap Time Analyzer demo](demo.png)
 
-Small C# console app that analyzes Formula 1 lap time data for the **São Paulo Grand Prix 2025** and compares the two Alpine drivers:
+Small C# console app that analyzes Formula 1 lap time data for the São Paulo Grand Prix 2025 and compares the two Alpine drivers:
 
-- **Pierre Gasly**
-- **Franco Colapinto**
+- Pierre Gasly
+- Franco Colapinto
 
 It reads a telemetry CSV, calculates some basic pace stats, and prints a colour-coded lap-by-lap comparison table in the terminal.
 
@@ -30,12 +30,12 @@ It reads a telemetry CSV, calculates some basic pace stats, and prints a colour-
 
 Status codes in the table use short initials:
 
-- `G` – Green  
-- `Y` – Yellow  
-- `SC` – Safety Car  
-- `R` – Red flag  
-- `VSC` – Virtual Safety Car  
-- `VSCe` – Virtual Safety Car ending  
+- `G`: Green  
+- `Y`: Yellow  
+- `SC`: Safety Car  
+- `R`: Red flag  
+- `VSC`: Virtual Safety Car  
+- `VSCe`: Virtual Safety Car ending  
 
 If multiple statuses are encoded in the telemetry for a single lap, they appear comma-separated, e.g. `VSC,VSCe,G`.
 
@@ -61,10 +61,11 @@ If multiple statuses are encoded in the telemetry for a single lap, they appear 
    ```
 
    You should see:
-   - A small summary table with fastest / average / median lap times and pitstops.
-   - A tyre compound usage sequence line for each driver.
-   - A pace-delta line showing who was quicker on average.
-   - A full lap-by-lap table for the race.
+
+- A small summary table with fastest / average / median lap times and pitstops.
+- A tyre compound usage sequence line for each driver.
+- A pace-delta line showing who was quicker on average.
+- A full lap-by-lap table for the race.
 
 ---
 
@@ -72,4 +73,4 @@ If multiple statuses are encoded in the telemetry for a single lap, they appear 
 
 The CSV telemetry used for this project was downloaded from:
 
-**https://tracinginsights.com/**
+[Tracing Insights](https://tracinginsights.com/)
